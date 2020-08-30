@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "course_name": "Information Technology Management",
+    "price": "74.90"
+  }, {
+    "id": 2,
+    "course_name": "Cyber Security Operations (Cisco CCNA) Course - The Open University",
+    "price": "35.22"
+  }, {
+    "id": 3,
+    "course_name": "Cybersecurity: Managing Risk in the Information Age Online Short Course",
+    "price": "55.42"
+  }, {
+    "id": 4,
+    "course_name": "Internet of Things: Business Implications and Opportunities Online Short Course",
+    "price": "63.83"
+  }, {
+    "id": 5,
+    "course_name": "Course in IT (Web Design)",
+    "price": "65.65"
+  }, {
+    "id": 6,
+    "course_name": "Enabling Technologies for Data Science and Analytics: The Internet of Things",
+    "price": "15.52"
+  }, {
+    "id": 7,
+    "course_name": "Course in Computer User - Skills Programme in Using Electronic Mail",
+    "price": "36.64"
+  }, {
+    "id": 8,
+    "course_name": "Course in IT Networking - Concept of Computer Architechure",
+    "price": "61.97"
+  }, {
+    "id": 9,
+    "course_name": "Course in IT General - Skills Programme in Basic PC and IT Concepts",
+    "price": "82.08"
+  }, {
+    "id": 10,
+    "course_name": "Course in IT Programming - Introduction to Java Programming",
+    "price": "60.95"
+  }, {
+    "id": 11,
+    "course_name": "Course in IT Programming - Skills Program in Internet and Web Design",
+    "price": "10.78"
+  }, {
+    "id": 12,
+    "course_name": "Course in IT Programming - Skills Programme in E-Commerce",
+    "price": "52.42"
+  }, {
+    "id": 13,
+    "course_name": "Course in IT Programming - Introduction to Computer Programming",
+    "price": "54.98"
+  }, {
+    "id": 14,
+    "course_name": "Course in IT - Short Programme in MS Project",
+    "price": "26.48"
+  }, {
+    "id": 15,
+    "course_name": "Course in Information Technology",
+    "price": "94.62"
+  }]

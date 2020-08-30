@@ -1,0 +1,9 @@
+.header{
+    height: 50px;
+    background-color: #999;
+    color:#61dafb;
+    font-size:30px;
+    padding:20px;
+    text-transform: capitalize;
+    text-align: center;
+}

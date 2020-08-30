@@ -1,0 +1,18 @@
+.main-container{
+    display:flex;
+}
+.course-container{
+    width:70%;
+    padding:20px;
+}
+.summary-container{
+    width:30%;
+    height: 300px;
+    padding:20px;
+    text-align: center;
+    background-color:lightgrey;
+    margin: 20px;
+    border-radius:5px;
+    box-shadow: 5px 5px 10px lightgrey;
+    color:#555;
+}   
